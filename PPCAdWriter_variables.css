@@ -1,0 +1,63 @@
+
+:root {
+
+/* Primary */
+--primary-00: #175DFF;
+--primary-10: #1555EA;
+--primary-20: #124CD1;
+--primary-30: #1042B7;
+
+/* neutral light */
+--neutra-light-00: #FFFFFF;
+--neutra-light-10: #FAFBFC;
+--neutra-light-20: #F4F5F9;
+--neutra-light-30: #EDEEF2;
+--neutra-light-40: #E0E1E5;
+--neutra-light-50: #BCC0D2;
+
+/* neutral light Colors*/
+--neutral-light-color-10: #F7F9FC;
+--neutral-light-color-20: #F0F4FC;
+--neutral-light-color-30: #E5EDFC;
+--neutral-light-color-40: #D6E3FC;
+--neutral-light-color-50: #BAD1FC;
+
+/* neutral Dark */
+--neutral-dark-10: #9DA4BE;
+--neutral-dark-20: #7882A6;
+--neutral-dark-30: #596387;
+--neutral-dark-40: #454D69;
+--neutral-dark-60: #292D3D;
+--neutral-dark-80: #1C202B;
+
+/* informative Color */
+--warning-00: #FF9500;
+--warning-light-10: #FF950014;
+--warning-light-20: #FF950023;
+--success-00: #27A14A;
+--success-light-10: #27A14A1E;
+--informative: #0244CE;
+--informative-light-10: #0052FF14;
+--error-00: #F4452D;
+--error-light-10: #F4452D1E;
+--disabled-00: #292D3D;
+--disabled-light-102: #1C202B1E;
+
+/* Spacing */
+--spacing-xxxs: 2;
+--spacing-xxs: 4;
+--spacing-xs: 6;
+--spacing-x: 8;
+--spacing-s: 12;
+--spacing-m: 16;
+--spacing-l: 20;
+--spacing-xl: 24;
+--spacing-xxl: 32;
+--spacing-xxxl: 40;
+--spacing-xxxxl: 48;
+--spacing-5xl: 56;
+--spacing-6xl: 72;
+--spacing-7xl: 96;
+--spacing-8xl: 128;
+--spacing-9xl: 176;
+}
